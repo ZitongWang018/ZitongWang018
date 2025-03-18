@@ -1,5 +1,9 @@
 ## Hi there 👋
+🔭 I'm currently working on:
+* Quantitative research (auto factor mining and CAT strategies)
+* Multimodal LLM (multimodal reasoning, visual-text alignment, detection ability...)
 
+📫 How to reach me: dasound@qq.com
 <!--
 **ZitongWang018/ZitongWang018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
